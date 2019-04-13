@@ -1,6 +1,6 @@
 # Zero
 
->最新版本为alpha_0.2.1
+>最新版本为alpha_0.2.1  
 >master分支为alpha_0.1版本
 
 [中文文档(https://jinglikeblue.github.io/Zero/Docs/Intro)](https://jinglikeblue.github.io/Zero/Docs/Intro)
